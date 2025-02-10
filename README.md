@@ -1,0 +1,2 @@
+# DualCANFD-SLCAN
+Dual CANFD GD32C103CC to SLCAN protocol via USB
